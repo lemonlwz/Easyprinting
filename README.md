@@ -1,4 +1,4 @@
 Easyprinting
 ============
 
-online printing photos.
+online printing photos.(v0.1a)
